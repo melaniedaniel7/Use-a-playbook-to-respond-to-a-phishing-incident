@@ -25,7 +25,7 @@ It was already determined that the email contains an attachment that has been ve
 Known malicious file hash: 54e6ea47eb04634d3e87fd7787e2136ccfbcc80ade34f246a12cf93bab527f6b
 Therefore, the alert should be escalated.
 
-<img src="" width="500" />
+<img src="https://github.com/melaniedaniel7/Use-a-playbook-to-respond-to-a-phishing-incident/blob/53f8f002b627c45e4b40e90578d9525b4bf09c64/Screenshot%202024-11-20%20at%2020.13.09.png" width="500" />
 
 ### Update the ticket alert status
 
