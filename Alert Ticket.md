@@ -22,6 +22,7 @@ Organizations have their own sets of policies, standards, and procedures that de
 
 ### Determine whether the alert should be escalated
 It was already determined that the email contains an attachment that has been verified as malicious through its file hash in the previous activity.
+Known malicious file hash: 54e6ea47eb04634d3e87fd7787e2136ccfbcc80ade34f246a12cf93bab527f6b
 Therefore, the alert should be escalated.
 
 <img src="" width="500" />
