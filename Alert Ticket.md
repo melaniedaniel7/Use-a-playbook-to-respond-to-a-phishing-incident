@@ -13,7 +13,6 @@ Organizations have their own sets of policies, standards, and procedures that de
 
 ### Evaluate the alert
 2-3 reasons on why you believe the phishing alert is or isn't legitimate.
-- The alert severity is medium which is a good indication that a ticket might require escalation.
 - There is a mismatch between the sender's email address (Def Communications <76tguyhh6tgftrt7tg.su>) and the sender's name (Clyde West), this is a good indication that the email might be a phishing email.
 - The message body and subject line contain grammatical errors, which can be an indication of a phishing attempt. This is indicated by green in the image below.
 - A malicious file has been attached to this email. This is indicated by pink in the image below.
