@@ -33,5 +33,7 @@ Therefore, the alert should be escalated.
 
 <img src="" width="500" />
 
-Under the Ticket comments column of the alert ticket template, use the details you've found to explain the steps taken and why you chose to escalate or close the ticket. 
-Include 2-3 reasons as to why you believe this alert should be escalated or closed.
+Include 2-3 reasons as to why you believe this alert should be escalated or closed. The ticket should be escalated because:
+- The alert severity is medium which is a good indication that a ticket might require escalation.
+- The email contains a password-protected attachment.
+- The attachment was previously confirmed as malicious.
