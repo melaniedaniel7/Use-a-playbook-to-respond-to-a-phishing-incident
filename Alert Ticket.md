@@ -31,7 +31,7 @@ Therefore, the alert should be escalated.
 
 ### Update the ticket alert status
 
-<img src="" width="500" />
+<img src="https://github.com/melaniedaniel7/Use-a-playbook-to-respond-to-a-phishing-incident/blob/ea5d97218da4193d51dbeea324697717e5dddf40/Screenshot%202024-11-21%20at%2008.26.52.png" width="500" />
 
 Include 2-3 reasons as to why you believe this alert should be escalated or closed. The ticket should be escalated because:
 - The alert severity is medium which is a good indication that a ticket might require escalation.
