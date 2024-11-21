@@ -9,7 +9,7 @@ Organizations have their own sets of policies, standards, and procedures that de
 
 <img src="https://github.com/melaniedaniel7/Use-a-playbook-to-respond-to-a-phishing-incident/blob/4a5bf85c00fa5d63721c6f2b0d6e1076ad61be39/Screenshot%202024-11-20%20at%2020.47.01.png" width="500" /> 
 
-<img src="" width="500" /> 
+<img src="https://github.com/melaniedaniel7/Use-a-playbook-to-respond-to-a-phishing-incident/blob/be9d92d1cbc1f15efbcfd2da2f1b9cb00d23fc90/Screenshot%202024-11-21%20at%2008.19.27.png" width="500" /> 
 
 ### Evaluate the alert
 2-3 reasons on why you believe the phishing alert is or isn't legitimate.
