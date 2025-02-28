@@ -1,6 +1,6 @@
 # Alert Ticket
 
-Disclaimer:
+Disclaimer: This project was created as part of my learning journey through the Google Professional Cybersecurity Certificate offered on Coursera. Some activities and content within this project were provided by the course as part of my coursework. All credit for such content belongs to Google and Coursera, and I acknowledge their role in supporting the completion of this project.
 
 💡 The steps in this playbook are not a definitive guide to responding to a phishing incident. 
 Organizations have their own sets of policies, standards, and procedures that determine the expected response actions to incidents.
@@ -12,7 +12,6 @@ Organizations have their own sets of policies, standards, and procedures that de
 <img src="https://github.com/melaniedaniel7/Use-a-playbook-to-respond-to-a-phishing-incident/blob/be9d92d1cbc1f15efbcfd2da2f1b9cb00d23fc90/Screenshot%202024-11-21%20at%2008.19.27.png" width="500" /> 
 
 ### Evaluate the alert
-2-3 reasons on why you believe the phishing alert is or isn't legitimate.
 - There is a mismatch between the sender's email address (Def Communications <76tguyhh6tgftrt7tg.su>) and the sender's name (Clyde West), this is a good indication that the email might be a phishing email.
 - The message body and subject line contain grammatical errors, which can be an indication of a phishing attempt. This is indicated by green in the image below.
 - A malicious file has been attached to this email. This is indicated by pink in the image below.
@@ -32,7 +31,7 @@ Therefore, the alert should be escalated.
 
 <img src="https://github.com/melaniedaniel7/Use-a-playbook-to-respond-to-a-phishing-incident/blob/ea5d97218da4193d51dbeea324697717e5dddf40/Screenshot%202024-11-21%20at%2008.26.52.png" width="500" />
 
-Include 2-3 reasons as to why you believe this alert should be escalated or closed. The ticket should be escalated because:
+The ticket should be escalated because:
 - The alert severity is medium which is a good indication that a ticket might require escalation.
 - The email contains a password-protected attachment.
 - The attachment was previously confirmed as malicious.
